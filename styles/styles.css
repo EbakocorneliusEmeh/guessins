@@ -23,10 +23,10 @@
 }
 
 .head {
-  background-color: salmon;
+  background-color: skyblue;
   width: 50%;
   margin-left: 25%;
-  border-radius: 5px;
+  border-radius: 10px;
 }
 
 #boy {
